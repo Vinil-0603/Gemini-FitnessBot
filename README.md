@@ -1,4 +1,4 @@
-![Fitness Chatbot in Action](https://github.com/your-username/gemini-fitness-chatbot/raw/main/fitness-chatbot-demo.png)
+![Fitness Chatbot in Action](fitnessbot.png)
 
 # Gemini Fitness & Nutrition Chatbot
 
