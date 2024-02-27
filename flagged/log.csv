@@ -1,0 +1,18 @@
+user_input,output,flag,username,timestamp
+calculate my BMI as my Height is 5.5 and my weight is 49 kilos,"**Your BMI is 17.5.**
+
+**Here is the formula and calculation:**
+
+BMI = weight (kg) / [height (m)]^2
+
+BMI = 49 kg / (1.65 m)^2
+
+BMI = 17.5
+
+**Your BMI of 17.5 is considered underweight.**
+
+A BMI of less than 18.5 is considered underweight. People who are underweight may have a higher risk of health problems, such as osteoporosis, anemia, and malnutrition.
+
+**If you are concerned about your weight, you should talk to your doctor.**
+
+Your doctor can help you determine if you are at a healthy weight and can recommend ways to gain weight if you need to.",,,2024-02-27 18:01:02.581361
