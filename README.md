@@ -25,11 +25,14 @@ Replace 'YOUR_API_KEY' with your actual API key.
 Launch the chatbot:
 
   ```bash
-   python chatbot.py
+   python fitnessbot.py
+  
+
+
 Interact with the chatbot: The Gradio interface should open in your browser (typically at http://127.0.0.1:7860).
 
-Fine-Tuning (Optional)
-For even more tailored results, consider fine-tuning the Gemini model on a dataset of fitness and nutrition text. See the Google Generative AI documentation for instructions.
+## Fine-Tuning (Optional)
+ For even more tailored results, consider fine-tuning the Gemini model on a dataset of fitness and nutrition text. See the Google Generative AI documentation for instructions.
 
 Contributing
 We welcome contributions! Feel free to open pull requests or suggest improvements.
