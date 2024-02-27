@@ -1,39 +1,38 @@
-Gemini Fitness & Nutrition Chatbot
+# Gemini Fitness & Nutrition Chatbot
+
 A powerful chatbot powered by the Gemini Advanced API, focused on answering questions related to fitness and nutrition.
 
-Features
-Asks questions to the Gemini language model framed within the expertise of fitness and nutrition.
-Simple and user-friendly interface built with Gradio.
-Installation
-Clone the Repository:
+## Features
 
-Bash
-git clone https://github.com/Vinil-0603/Gemini-FitnessBot.git
-Use code with caution.
-Install Dependencies:
+* Asks questions to the Gemini language model framed within the expertise of fitness and nutrition.
+* Simple and user-friendly interface built with Gradio.
 
-Bash
-pip install google-generativeai gradio
-Use code with caution.
-Usage
-Obtain a Gemini Advanced API Key: Get your API key from https://console.cloud.google.com/
+## Installation
 
-Set Your API Key:
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/Vinil-0603/Gemini-FitnessBot/.git)
+   
+2. **Install dependencies:**
+   ```bash
+     pip install google-generativeai gradio
+
+**Usage**
+Set your API key:
 
 Open chatbot.py.
-Replace the placeholder 'YOUR_API_KEY' with your actual API key.
-Run the Chatbot:
+Replace 'YOUR_API_KEY' with your actual API key.
+Launch the chatbot:
 
-Bash
-python chatbot.py
-Use code with caution.
-Access in Your Browser: The Gradio interface should launch automatically in your browser (typically at http://127.0.0.1:7860)
+  ```bash
+   python chatbot.py
+Interact with the chatbot: The Gradio interface should open in your browser (typically at http://127.0.0.1:7860).
 
-Fine-Tuning
-This project provides a starting point. Consider fine-tuning the Gemini model on a specialized fitness and nutrition dataset for even better results. Refer to the Google Generative AI documentation for instructions.
+Fine-Tuning (Optional)
+For even more tailored results, consider fine-tuning the Gemini model on a dataset of fitness and nutrition text. See the Google Generative AI documentation for instructions.
 
 Contributing
-Pull requests and suggestions for improvement are always welcome!
+We welcome contributions! Feel free to open pull requests or suggest improvements.
 
 Disclaimer
-The chatbot is not a substitute for professional fitness or nutritional advice. Always consult with qualified experts before making significant diet or exercise changes.
+This chatbot is not intended as a replacement for professional medical or fitness advice. Consult qualified experts before making significant changes to your diet or exercise routine.
